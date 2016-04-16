@@ -32,7 +32,7 @@ This is a school project for us to better understand how to create our own Javas
 
 ## Installation
 
-1. Download the Spin.js zip. (link)
+1. Download the Spin.js zip. [Link](https://github.com/BasPagie/spin.js/archive/master.zip)
 2. Unzip and replace the example contents in index.html with your own.
 3. Open index.html in a browser to view it.
 
