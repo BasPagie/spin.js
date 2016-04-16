@@ -6,9 +6,9 @@ With this very small library you can spin every element with one click on your p
 ## Code Example
 
 The following code is an example of how to use this library:
-
+````
 $('#helloo').spin()
-
+````
 ## Motivation
 
 A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
