@@ -7,9 +7,23 @@ With this very small library you can spin every element with one click on your p
 
 The following code is an example of how to use this library:
 ````
-$('#id').spin()
-$('.class').spin()
-$('div').spin()
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Spin.js</title>
+	<script type="text/javascript" src="spin.js"></script>
+	<script type="text/javascript">
+	window.onload = function() {
+		$('#hello').spin()
+	}
+	</script>
+</head>
+<body>
+
+<img id="hello" src="http://www.microugly.com/images/tutorials/inkscape-small-icon/icon-zoom-pixelated.png" ></img>
+<br><br>
+</body>
+</html>
 ````
 
 ## Motivation
